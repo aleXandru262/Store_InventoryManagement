@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPackageProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PackageProduct>
+    <Store>Electronics Store</Store>
+    <Name>PS5</Name>
+    <Id>1</Id>
+    <Price>129.99</Price>
+    <Quantity>5</Quantity>
+    <NumberInPackage>-1</NumberInPackage>
+    <PackWeight>-1</PackWeight>
+  </PackageProduct>
+  <PackageProduct>
+    <Store>Electronics Store</Store>
+    <Name>iPhone 14</Name>
+    <Id>2</Id>
+    <Price>450</Price>
+    <Quantity>2</Quantity>
+    <NumberInPackage>-1</NumberInPackage>
+    <PackWeight>-1</PackWeight>
+  </PackageProduct>
+  <PackageProduct>
+    <Store>Electronics Store</Store>
+    <Name>Batteries</Name>
+    <Id>3</Id>
+    <Price>11.5</Price>
+    <Quantity>10</Quantity>
+    <NumberInPackage>5</NumberInPackage>
+    <PackWeight>0.35</PackWeight>
+  </PackageProduct>
+  <PackageProduct>
+    <Store>Clothing Store</Store>
+    <Name>Christmas Socks</Name>
+    <Id>4</Id>
+    <Price>8.99</Price>
+    <Quantity>45</Quantity>
+    <NumberInPackage>3</NumberInPackage>
+    <PackWeight>0.2</PackWeight>
+  </PackageProduct>
+  <PackageProduct>
+    <Store>Clothing Store</Store>
+    <Name>Rick&amp;Morty T-Shirt</Name>
+    <Id>5</Id>
+    <Price>36.2</Price>
+    <Quantity>3</Quantity>
+    <NumberInPackage>-1</NumberInPackage>
+    <PackWeight>-1</PackWeight>
+  </PackageProduct>
+  <PackageProduct>
+    <Store>Clothing Store</Store>
+    <Name>Kids socks</Name>
+    <Id>7</Id>
+    <Price>3</Price>
+    <Quantity>20</Quantity>
+    <NumberInPackage>8</NumberInPackage>
+    <PackWeight>0.4</PackWeight>
+  </PackageProduct>
+  <PackageProduct>
+    <Store>Bookstore</Store>
+    <Name>Hobbit Vol. I</Name>
+    <Id>8</Id>
+    <Price>34.6</Price>
+    <Quantity>2</Quantity>
+    <NumberInPackage>-1</NumberInPackage>
+    <PackWeight>-1</PackWeight>
+  </PackageProduct>
+  <PackageProduct>
+    <Store>Bookstore</Store>
+    <Name>Harry Potter all volumes</Name>
+    <Id>9</Id>
+    <Price>325</Price>
+    <Quantity>1</Quantity>
+    <NumberInPackage>7</NumberInPackage>
+    <PackWeight>7</PackWeight>
+  </PackageProduct>
+  <PackageProduct>
+    <Store>Clothing Store</Store>
+    <Name>Purple short pants</Name>
+    <Id>9</Id>
+    <Price>13</Price>
+    <Quantity>33</Quantity>
+    <NumberInPackage>-1</NumberInPackage>
+    <PackWeight>-1</PackWeight>
+  </PackageProduct>
+</ArrayOfPackageProduct>

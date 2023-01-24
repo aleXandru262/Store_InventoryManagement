@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+	<product>
+		<id>1</id>
+		<store>Clothing</store>
+		<name>Socks</name>
+		<price>11.99</price>
+		<quantity>10</quantity>
+		<numberInPackage>3</numberInPackage>
+		<packageWeight>0.25</packageWeight>
+	</product>
+	<!-- more products -->
+</products>

@@ -1,0 +1,12 @@
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\bin\Debug\net6.0\ProductManagement.deps.json
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\bin\Debug\net6.0\ProductManagement.dll
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\bin\Debug\net6.0\ProductManagement.pdb
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\ProductManagement.csproj.AssemblyReference.cache
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\ProductManagement.AssemblyInfoInputs.cache
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\ProductManagement.AssemblyInfo.cs
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\ProductManagement.dll
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\refint\ProductManagement.dll
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\ProductManagement.pdb
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\ref\ProductManagement.dll

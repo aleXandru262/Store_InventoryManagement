@@ -1,0 +1,5 @@
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\StoreManagement.csproj.AssemblyReference.cache
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\StoreManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\StoreManagement.AssemblyInfoInputs.cache
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\StoreManagement.AssemblyInfo.cs
+C:\Users\rusal\source\repos\InventoryManagement\ProductManagement\obj\Debug\net6.0\StoreManagement.csproj.CoreCompileInputs.cache
